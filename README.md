@@ -9,9 +9,12 @@ In January of 2008, the OTDA removed restrictions on SNAP eligibility, making it
 
 <iframe src='https://flo.uri.sh/visualisation/2229382/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/2229382/?utm_source=embed&utm_campaign=visualisation/2229382' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
 
-You can use the [editor on GitHub](https://github.com/eturley1/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+However, since Governor Andrew Cuomo placed New York on “PAUSE” protocol due to COVID-19, many New Yorkers have once again lost their source of income. In light of this emergency, the state OTDA issued an emergency benefit for March and April of 2020, which gave a supplemental SNAP allowance to all families not already receiving the maximum allotment for their household. So far the office has not issued a statement relating whether these emergency benefits will extend to May 2020.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe src='https://flo.uri.sh/visualisation/2212391/embed' title='Interactive or visual content' frameborder='0' scrolling='no' style='width:100%;height:600px;'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/2212391/?utm_source=embed&utm_campaign=visualisation/2212391' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:105px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>
+
+According to the New York OTDA’s website, “Households CAN use SNAP benefits to buy foods for the household to eat, such as, but not limited to, breads and cereals, fruits and vegetables, meats, fish and poultry, dairy products, and seeds and plants which produce food for the household to eat. Households CANNOT use SNAP benefits to buy beer, wine, liquor, cigarettes or tobacco, food that will be eaten in the store, hot foods, or any nonfood items.” The impact of the coronavirus means it is likely that the number of New Yorkers relying on government benefits to feed their households will go up before the state sees any continuation to this trend of recovery from the 2008 financial crisis.
+
 
 ### Markdown
 
