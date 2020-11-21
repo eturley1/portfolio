@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## NY families still recovering from 2008 recession face economic uncertainty
+### By Elizabeth Turley | May 4, 2020
+
+The Great Recession, which lasted from December 2007 until June 2009, was a period of great economic uncertainty for people all around the world. In New York, many people lost their jobs and even their homes, eventually turning to the state’s Supplemental Nutrition Assistance Program (SNAP) in order to feed their families.
+
+SNAP is a national program that allocates resources (formerly referred to as “food stamps”) to eligible people and families with economic insecurity, allowing them to purchase specific food items that are deemed necessary. In New York, these criteria are determined by the Office of Temporary and Disability Services (OTDA). In order to apply, families and individuals must meet income thresholds and create a SNAP budget. The application is available to New Yorkers both online and at local departments of social services.
+
+In January of 2008, the OTDA removed restrictions on SNAP eligibility, making it possible for applicants with savings, checking or retirement accounts to apply for benefits. The percentage of New Yorkers receiving benefits immediately shot up and has only just begun to decrease over the last four years.
+
+<iframe scrolling="no" frameborder="0" title="Interactive or visual content" src="https://flo.uri.sh/visualisation/2229382/embed?auto=1" style="width: 100%; height: 575px;"></iframe>
 
 You can use the [editor on GitHub](https://github.com/eturley1/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
