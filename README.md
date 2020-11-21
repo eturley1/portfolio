@@ -7,7 +7,7 @@ SNAP is a national program that allocates resources (formerly referred to as “
 
 In January of 2008, the OTDA removed restrictions on SNAP eligibility, making it possible for applicants with savings, checking or retirement accounts to apply for benefits. The percentage of New Yorkers receiving benefits immediately shot up and has only just begun to decrease over the last four years.
 
-		<div class="flourish-embed flourish-chart" data-src="visualisation/2229382" data-url="https://flo.uri.sh/visualisation/2229382/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+		<iframe class="flourish-embed flourish-chart" data-src="visualisation/2229382" data-url="https://flo.uri.sh/visualisation/2229382/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></iframe>
 
 You can use the [editor on GitHub](https://github.com/eturley1/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
